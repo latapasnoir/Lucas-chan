@@ -12,6 +12,4 @@ Comment utiliser
 Pour utiliser ce site, il vous suffit de cliquer sur les liens de navigation pour accéder aux différentes sections. Le contenu de chaque section est clairement étiqueté pour une utilisation facile.
 
 Merci de visiter mon site!
-
-Trop sexy Lucas
-
+Et n'oubliez pas discord.gg/ldt
