@@ -6,7 +6,6 @@ Fonctionnalités
     Design minimaliste pour une expérience utilisateur simple
     Navigation facile pour accéder aux différentes sections du site
     Utilisation de CSS pour la mise en forme et l'esthétique
-    Intégration de JavaScript pour des interactions interactives sur le site.
 
 Comment utiliser
 
