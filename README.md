@@ -1,6 +1,6 @@
 Bienvenue sur Mon Site Simple
 
-Ceci est un site web de base que j'ai créé pour montrer mes compétences en développement web. Le site est construit en utilisant HTML, CSS et JavaScript.
+Ceci est un site web de base que j'ai créé pour montrer mes compétences en développement web. Le site est construit en utilisant HTML et CSS.
 Fonctionnalités
 
     Design minimaliste pour une expérience utilisateur simple
